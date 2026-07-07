@@ -1,7 +1,7 @@
 <p align="center">
-  <img src="build/icon.png" width="120" alt="魔因漫创 Logo" />
+  <img src="build/icon.png" width="120" alt="JJYB漫创 Logo" />
 </p>
-<h1 align="center">魔因漫创 Moyin Creator</h1>
+<h1 align="center">JJYB漫创 Moyin Creator</h1>
 
 <p align="center">
   <strong>🎬 AI 影视生产级工具 · 支持 Seedance 2.0 · 剧本到成片全流程批量化</strong>
@@ -38,7 +38,7 @@
 
 ## 简介
 
-**魔因漫创** 是一款面向 AI 影视创作者的生产级工具。五大板块环环相扣，覆盖从剧本到成片的完整创作链路：
+**JJYB漫创** 是一款面向 AI 影视创作者的生产级工具。五大板块环环相扣，覆盖从剧本到成片的完整创作链路：
 
 > **📝 剧本 → 🎭 角色 → 🌄 场景 → 🎬 导演 → ⭐ S级（Seedance 2.0）**
 
@@ -175,11 +175,10 @@ moyin-creator/
 
 ## 贡献
 
-欢迎贡献！请阅读 [贡献指南](CONTRIBUTING.md) 了解详情。
+欢迎贡献！
 
 ---
 
-<p align="center">Made with ❤️ by <a href="https://github.com/MemeCalculate">MemeCalculate</a></p>
 
 
 
